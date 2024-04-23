@@ -1,0 +1,50 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.boton {
+    display: flex;
+    justify-content: end;
+}
+
+
+#banner {
+    background-image: url("../imgs/op3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+
+  .bannerContainer {
+    min-height: 300px; 
+  }
+
+  .presentacion {
+    padding: 20px;
+    margin: 10px;
+  }
+
+  .image {
+    height: 250px;
+    width: 300px;
+  }
+
+  .card-img-top {
+    width: auto;
+    height: 250px;
+  }
+
+  .text-end-page {
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+
+.text-color {
+  color: white;
+}
+
+.button-p {
+  margin-bottom: 2rem;
+}
